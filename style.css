@@ -194,7 +194,7 @@ nav .menu-toggle {
   width: 100%;
   height: 100%;
   background-position: center;
-  background-image: url(images/hero1.png);
+
   background-repeat: no-repeat;
     transform: translateZ(-1px) scale(2);
   animation: parallaxMove 30s linear infinite;
